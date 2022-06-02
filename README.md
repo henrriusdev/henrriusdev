@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/hbourgeot/portfolio)
 
-- 🌱 I’m currently learning **PHP, MySQL**
+- 🌱 I’m currently learning **JavaScript, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://bourgeot.netlify.app](https://bourgeot.netlify.app)
 
