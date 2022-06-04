@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://bourgeot.netlify.app](https://bourgeot.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.soyhenrry.tk](https://www.soyhenrry.tk/)
 
-- 📝 I regularly write articles on [https://bourgeot.netlify.app](https://bourgeot.netlify.app)
+- 📝 I regularly write articles on [https://blog.soyhenrry.tk](https://bourgeot.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C++**
+- 💬 Ask me about **HTML, CSS, SASS JavaScript**
 
 - 📫 How to reach me **henrrybrgt@gmail.com**
-
-- 📄 Know about my experiences [https://bourgeot.netlify.app/assets/cv-hb.pdf](https://bourgeot.netlify.app/assets/cv-hb.pdf)
 
 - ⚡ Fun fact **I think I'm awesome**
 
