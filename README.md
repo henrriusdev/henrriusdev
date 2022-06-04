@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.soyhenrry.tk](https://www.soyhenrry.tk/)
 
-- 📝 I regularly write articles on [https://blog.soyhenrry.tk](https://bourgeot.netlify.app)
+- 📝 I regularly write articles on [https://blog.soyhenrry.tk](https://blog.soyhenrry.tk)
 
 - 💬 Ask me about **HTML, CSS, SASS JavaScript**
 
