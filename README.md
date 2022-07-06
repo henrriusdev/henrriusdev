@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [My portfolio](https://github.com/hbourgeot/portfolio)
 
-- 🌱 I’m currently learning **JavaScript, NodeJS**
+- 🌱 I’m currently learning **JavaScript, Go**
 
-- 👨‍💻 All of my projects are available at [https://www.soyhenrry.tk](https://www.soyhenrry.tk/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-hb.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://blog.soyhenrry.tk](https://blog.soyhenrry.tk)
 
-- 💬 Ask me about **HTML, CSS, SASS JavaScript**
+- 💬 Ask me about **HTML, CSS, SASS, JavaScript**
 
 - 📫 How to reach me **henrrybrgt@gmail.com**
 
