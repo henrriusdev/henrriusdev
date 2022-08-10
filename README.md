@@ -30,6 +30,6 @@
 
 [![Henrry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbourgeot&show_icons=true&theme=github_dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hbourgeot&" alt="hbourgeot" /></p>
+<h3 align="left">Top Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot)](https://github.com/anuraghazra/github-readme-stats)
