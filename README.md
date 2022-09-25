@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go/Golang**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-hb.herokuapp.com](https://portfolio-hb.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://www.henrry.online](https://www.henrry.online)
 
 - 💬 Ask me about **HTML, CSS, SASS, JS, SQL**
 
