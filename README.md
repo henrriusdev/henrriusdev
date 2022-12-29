@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrry Bourgeot</h1>
 <h3 align="center">A passionate Go Back-End Dev from Venezuela</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hbourgeot&label=Profile%20views&color=0e75b6&style=flat" alt="hbourgeot" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbourgeot" alt="hbourgeot" /></a> </p>
-
 - 🌱 I’m currently learning **Go/Golang**
 
 - 👨‍💻 All of my projects are available at [https://www.henrry.online](https://www.henrry.online)
@@ -28,8 +24,10 @@
 
 <h3 align="left">Stats</h3>
 
-[![Henrry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbourgeot&show_icons=true&theme=github_dark)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbourgeot" alt="hbourgeot" width="80%" /></a> </p>
+
+<p align="left"><img src="https://streak-stats.demolab.com?user=hbourgeot&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="80%"/></p>
 
 <h3 align="left">Top Languages</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&hide=scss&langs_count=8&exclude_repo=estudiandev,todotech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
