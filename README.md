@@ -26,8 +26,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbourgeot" alt="hbourgeot" width="80%" /></a> </p>
 
-<p align="left"><img src="https://streak-stats.demolab.com?user=hbourgeot&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="80%"/></p>
-
 <h3 align="left">Top Languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&hide=scss&langs_count=8&exclude_repo=estudiandev,todotech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
