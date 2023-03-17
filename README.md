@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Henrry Bourgeot</h1>
-<h3 align="center">A passionate Go Back-End Dev from Venezuela</h3>
+<h1 align="center">Hello 👋, I'm Henrry Bourgeot</h1>
+<h3 align="center">A passionate backend developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Go/Golang**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hbourgeot&label=Profile%20views&color=0e19b4&style=flat" alt="hbourgeot" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.henrry.online](https://www.henrry.online)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbourgeot" alt="hbourgeot" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, SASS, JS, SQL**
+- 🔭 I’m currently working on [Snippetbox](https://github.com/hbourgeot/snippetbox)
 
-- 📫 How to reach me **henrrybrgt@gmail.com**
+- 🌱 I’m currently learning **Echo, Svelte, FastAPI**
 
-- ⚡ Fun fact **I think I'm awesome**
+- 👨‍💻 All of my projects are available at [https://henrry.online](https://henrry.online)
+
+- 📝 I regularly write articles on [https://estudiandev.site](https://estudiandev.site)
+
+- 💬 Ask me about **Go, JavaScript and Python (Basic)**
+
+- 📫 How to reach me **henrry.geek@gmail.com**
+
+- ⚡ Fun fact **I love teach others to programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
