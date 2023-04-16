@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Henrry Bourgeot</h1>
-<h3 align="center">A passionate backend developer from Venezuela</h3>
+<h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbourgeot&label=Profile%20views&color=0e19b4&style=flat" alt="hbourgeot" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Snippetbox](https://github.com/hbourgeot/snippetbox)
 
-- 🌱 I’m currently learning **Echo, Svelte, FastAPI**
+- 🌱 I’m currently learning **Echo, Svelte**
 
 - 👨‍💻 All of my projects are available at [https://henrry.online](https://henrry.online)
 
 - 📝 I regularly write articles on [https://estudiandev.site](https://estudiandev.site)
 
-- 💬 Ask me about **Go, JavaScript and Python (Basic)**
+- 💬 Ask me about **Go, JavaScript, TypeScript, Svelte and Python (Basic)**
 
 - 📫 How to reach me **henrry.geek@gmail.com**
 
