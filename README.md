@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Snippetbox](https://github.com/hbourgeot/snippetbox)
 
-- 🌱 I’m currently learning **Echo, Svelte**
+- 🌱 I’m currently learning **Java, Golang Echo, Svelte**
 
 - 👨‍💻 All of my projects are available at [https://henrry.online](https://henrry.online)
 
