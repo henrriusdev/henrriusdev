@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Snippetbox](https://github.com/hbourgeot/snippetbox)
 
-- 🌱 I’m currently learning **Java, Golang Echo, Svelte**
+- 🌱 I’m currently learning **Java, Golang Echo, Spring**
 
 - 👨‍💻 All of my projects are available at [https://henrry.online](https://henrry.online)
 
@@ -30,4 +30,4 @@
 
 <h3 align="left">Top Languages</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&hide=scss&langs_count=8&exclude_repo=estudiandev,todotech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&layout=pie&hide=scss&exclude_repo=todotech)](https://github.com/anuraghazra/github-readme-stats)
