@@ -30,4 +30,4 @@
 
 <h3 align="left">Top Languages</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&layout=pie&hide=scss&exclude_repo=todotech&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&layout=pie&hide=scss&exclude_repo=todotech&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
