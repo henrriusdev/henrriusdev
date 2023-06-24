@@ -86,3 +86,5 @@ Python                   4 repos             ██░░░░░░░░░�
 
  Last Updated on 23/06/2023 18:38:26 UTC
 <!--END_SECTION:waka-->
+
+![hbourgeot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&theme=transparent&show_icons=true&hide_border=false&layout=donut&hide=css)
