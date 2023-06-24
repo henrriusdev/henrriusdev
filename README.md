@@ -1,13 +1,13 @@
 # Hello, I'm Henrry
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-729%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 57.1 kB Used in GitHub's Storage 
+> 📦 57.2 kB Used in GitHub's Storage 
  > 
 > 🏆 460 Contributions in the Year 2023
  > 
@@ -84,7 +84,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hbourgeot/hbourgeot/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2023 17:36:46 UTC
+ Last Updated on 24/06/2023 18:38:03 UTC
 <!--END_SECTION:waka-->
 
 ![hbourgeot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&theme=transparent&show_icons=true&hide_border=false&layout=donut&hide=css)
