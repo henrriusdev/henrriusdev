@@ -85,4 +85,4 @@ TypeScript               3 repos             ██░░░░░░░░░�
  Last Updated on 09/09/2023 06:43:30 UTC
 <!--END_SECTION:waka-->
 
-![hbourgeot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&theme=transparent&show_icons=true&hide_border=false&layout=donut&hide=css,html)
+![hbourgeot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&theme=transparent&show_icons=true&hide_border=false&layout=donut&hide=css,html&exclude_repo=inversiones7h,java-exercises)
