@@ -1,3 +1,3 @@
 # Hello, I'm Henrry
 
-![hbourgeot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&theme=transparent&layout=pie&hide=css,html&langs_count=5)
+![hbourgeot's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbourgeot&theme=transparent&layout=pie&langs_count=6)
