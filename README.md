@@ -1,49 +1,58 @@
-<h2 align="left">Hi 👋! My name is Henrry and I'm a Backend Developer</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,27&height=200&section=header&text=Henrry%20Bourgeot&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Semi%20Senior%20Full%20Stack%20Developer&descAlignY=65&descAlign=50" />
 
-<br clear="both">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Golang;Full+Stack;Clean+Code;React)](https://git.io/typing-svg)
+
+</div>
+
+## About Me
+
+```go
+package main
+
+import (
+  "fmt"
+  "github.com/henrriusdev/henrriusdev"
+)
+
+func main(){
+  about := henrriusdev.Info{
+    Name:   "Henrry Bourgeot",
+    Age:    22,
+    Based: "Venezuela",
+  }
+
+  mainStack := henrriusdev.Stack{
+    Backend:  "Go",
+    Frontend: "Vue",
+    Database: "PostgreSQL",
+  }
+
+  otherSkills := henrriusDev.Skills{
+    LessOneYear:   []string{"React Native", "Open AI API", "Solid"},
+    OneTwoYears:   []string{"Java", "Spring Boot", "Astro", "Angular", "C#", "ASP.NET", "Laravel"},
+    TwoThreeYears: []string{"Go", "Vue", "React", "Svelte", "TypeScript", "Node.js", "NestJS", "PHP"},
+  }
+
+  fmt.Println("Hello there!")
+  fmt.Printf("About me: %v", about)
+  fmt.Printf("Main Stack: %v", mainStack)
+  fmt.Printf("Skills: %v", skills)
+  return
+}
+```
+
+## My Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henrriusdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=transparent&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrriusdev&locale=en&hide_title=true&layout=compact&card_width=350&langs_count=6&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/henrriusdev/henrriusdev/output/snake.svg" alt="Snake animation" />
 
-<br clear="both">
-
-<img align="right" height="200" src="https://github.com/tdakkota/tdakkota/raw/master/gopher.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-</div>
-
-###
+## Social Links
 
 <div align="left">
   <a href="https://www.youtube.com/@henrriusdev" target="_blank">
@@ -59,23 +68,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/henrriusdev/henrriusdev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="left" height="200" src="https://i.redd.it/bpxxqqvps4h91.gif"  />
-
-###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/31jbycinp2rmhhewkwuzqbsawkzu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jbycinp2rmhhewkwuzqbsawkzu&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
