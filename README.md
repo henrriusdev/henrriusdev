@@ -31,8 +31,8 @@ func main(){
 
   otherSkills := henrriusDev.Skills{
     LessOneYear:   []string{"React Native", "Open AI API", "Solid"},
-    OneTwoYears:   []string{"Java", "Spring Boot", "Astro", "Angular", "C#", "ASP.NET", "Laravel"},
-    TwoThreeYears: []string{"Go", "Vue", "React", "Svelte", "TypeScript", "Node.js", "NestJS", "PHP"},
+    OneTwoYears:   []string{"Java", "Spring Boot", "Astro", "Angular", "C#", "ASP.NET", "Laravel", "Django"},
+    TwoThreeYears: []string{"Go", "Vue", "React", "Svelte", "TypeScript", "Node.js", "NestJS", "PHP", "Python", "Flask", "FastAPI"},
   }
 
   fmt.Println("Hello there!")
